@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.to_do_list,
+.counter {
+  padding: 5px 10px;
+  border-radius: 5px;
+  outline: none;
+  margin: 20px auto;
+}
+
+.to_do_list {
+  background: forestgreen;
+}
+
+.counter {
+  background: saddlebrown;
+}
